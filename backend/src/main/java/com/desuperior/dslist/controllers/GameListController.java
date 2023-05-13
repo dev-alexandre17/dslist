@@ -1,6 +1,5 @@
 package com.desuperior.dslist.controllers;
 
-import com.desuperior.dslist.dto.GameDTO;
 import com.desuperior.dslist.dto.GameListDTO;
 import com.desuperior.dslist.dto.GameMinDTO;
 import com.desuperior.dslist.services.GameListService;
@@ -20,9 +19,18 @@ public class GameListController {
     @Autowired
     private GameListService gameListService;
 
+    @Autowired
+    private GameService gameService;
+
     @GetMapping
     public List<GameListDTO> findAll() {
         List<GameListDTO> result = gameListService.findAll();
+        return result;
+    }
+
+    @GetMapping("/{listId}/games")
+    public List<GameMinDTO> findByList(@PathVariable Long listId) {
+        List<GameMinDTO> result = gameService.findByList(listId);
         return result;
     }
 }
