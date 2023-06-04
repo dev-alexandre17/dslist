@@ -1,1 +1,1 @@
-![Marielle Price (1)](https://github.com/dev-alexandre17/dslist/assets/83430934/903c907b-e82f-47c0-a06b-08b94fd0c67e)
+![Marielle Price (2)](https://github.com/dev-alexandre17/dslist/assets/83430934/2c42e7f7-3a90-405c-b763-53486dd1aab6)
