@@ -8,6 +8,10 @@ Sistema de API REST que consiste em buscar jogos sobre diferentes categorias. De
 
 ![dslist-model](https://github.com/dev-alexandre17/challenge-one-coin-converter/assets/83430934/427afdc9-6987-4df1-b5df-938d0357a316)
 
+## ✔️ Técnicas e tecnologias utilizadas
+
+
+
 
 
 
