@@ -10,7 +10,7 @@ Sistema de API REST que consiste em buscar jogos sobre diferentes categorias. De
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- `Java`: aplicação baseada na linguagem de programação
+- `Java`: aplicação baseada na linguagem de programação.
 - `Spring Boot`: spring boot é um framework de desenvolvimento de aplicativos java baseado no ecossistema do spring    framework.
 - `API`: conjunto de regras e protocolos que permite a interação entre diferentes softwares.
 - `Entity`: indica que a classe representa uma entidade persistente.
