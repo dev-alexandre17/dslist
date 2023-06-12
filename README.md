@@ -38,3 +38,22 @@ Sistema de API REST que consiste em buscar jogos sobre diferentes categorias. De
 - `PostgreSQL`: sistema de gerenciamento de banco de dados relacional (SGBD) de código aberto.
 - `Git`: sistema de controle de versão.
 - `Railway`: plataforma de hospedagem e implantação de aplicativos da web.
+
+# End Points
+
+- `Games`: Retorno dos jogos.
+
+![2  Retorno dos Jogos](https://github.com/dev-alexandre17/dslist/assets/83430934/ba700551-4663-49a2-bd89-3ca5e723abf2)
+
+- `Games by id`: Retorno do jogo através da busca por id.
+
+![1  Retorno dos Jogos via ID](https://github.com/dev-alexandre17/dslist/assets/83430934/013516ed-ed9e-4840-b97a-eb52f8dbbfbb)
+
+- `Games lists`: Retorno das listas dos jogos.
+
+![3  Retorno da lista de jogos](https://github.com/dev-alexandre17/dslist/assets/83430934/ea548576-882c-43b2-b85b-5c3839aae053)
+
+- `Games lists by id`: Retorno dos jogos através da busca por id da lista.
+
+![4  Retorno de jogos pelo número da lista](https://github.com/dev-alexandre17/dslist/assets/83430934/7e66eac8-1837-498e-a437-93f1eac4f503)
+
